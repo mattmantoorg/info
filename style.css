@@ -1,0 +1,105 @@
+*  {
+margin-bottom: 0px;
+margin-top: 0px;
+margin-left: 0px;
+margin-right: 0px;
+background-color:;
+}
+
+.infotop {
+background-color: aquamarine;
+text-align: center;
+padding-top: 40;
+padding-bottom:0px;
+}
+
+.infotop h1 {
+padding-bottom: 25px;
+}
+
+.infotop p {
+font-size: 20;
+}
+.infobanner{
+text-align: center;
+background-color: lightgreen;
+padding: 15;
+
+}
+.wrapper {
+background-color: cornflowerblue;
+padding-bottom: 1px;
+padding-top: 1px;
+padding-bottom:100;
+}
+
+.article {
+text-align: center;
+background-color: coral;
+margin-left: 100;
+margin-right: 100;
+margin-bottom: 0;
+margin-top: 50;
+padding: 30px;
+border-bottom-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-top-right-radius: 100px;
+border-top-left-radius: 100px;
+
+}
+.postcontent {
+background-color: forestgreen;
+border-bottom-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-top-right-radius: 100px;
+border-top-left-radius: 100px;
+margin-bottom: 20;
+padding: 40;
+}
+
+.postinfo {
+margin-top: 10;
+background-color: dodgerblue;
+margin-left: 70px;
+margin-right: 70px;
+border-bottom-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-top-right-radius: 100px;
+border-top-left-radius: 100px;
+
+}
+
+nav {
+    background-color: antiquewhite;
+    margin: 10PX;
+ text-align: center;
+    display: inline-block;
+    
+}
+}
+ul {
+list-style-type: none;
+ 
+
+}
+
+ul li {
+text-decoration: none;
+display: inline;
+text-align: center;
+float: left;
+  margin-left:;
+margin-right: 25;
+    
+}
+
+ul li a {
+text-decoration-line: none;
+    display: block;
+  padding: 10px;
+    text-align: center;
+  
+   
+
+    
+}
