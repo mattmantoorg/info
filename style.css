@@ -54,7 +54,8 @@ border-bottom-left-radius: 100px;
 border-top-right-radius: 100px;
 border-top-left-radius: 100px;
 margin-bottom: 20;
-padding: 40;
+padding: 10;
+margin:0;
 }
 
 .postinfo {
