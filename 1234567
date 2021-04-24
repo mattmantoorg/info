@@ -1,0 +1,25 @@
+[none]
+mode=files
+sort=alpha
+directory=/var/lib/asterisk/moh/.nomusic_reserved
+
+[default]
+mode=files
+sort=alpha
+directory=/var/lib/asterisk/moh
+
+[MOH1]
+mode=files
+sort=alpha
+directory=/var/lib/asterisk/moh/MOH1
+
+[radio1]
+mode=custom
+application=/usr/bin/mpg123 -q 8000 -f 8192 --mono -s http://node-32.zeno.fm/kpvctxndys8uv?rj-ttl=5&rj-tok=AAABeOKwz6cAxN6TYSyejUWQZw
+format=
+
+[MOH2]
+mode=files
+sort=alpha
+directory=/var/lib/asterisk/moh/MOH2
+
